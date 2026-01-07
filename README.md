@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--# 👋 Hi, I'm <Your Name>
+👋 Hi, I'm <Your Name>
 
 🎉 I love building interactive web experiences  
 🎂 I created a cinematic birthday website using HTML, CSS & JavaScript  
@@ -29,4 +28,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
