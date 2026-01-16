@@ -7,6 +7,7 @@
 
 ## 🌟 Featured Project
 🔗 Live Demo: https://chiragsinh02004.github.io/birthday-website/
+
 🔗 Live Demo: https://chiragsinh02004.github.io/matrix-ascii-translator/
 
 ## 🛠️ Tech Stack
