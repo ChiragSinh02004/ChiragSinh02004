@@ -1,13 +1,13 @@
 ## Hi there 👋
-👋 Hi, I'm <Your Name>
+👋 Hi, I'm <👑Parmar_Chirag_Sinh👑>
 
 🎉 I love building interactive web experiences  
 🎂 I created a cinematic birthday website using HTML, CSS & JavaScript  
 🚀 Passionate about frontend animations & UI magic  
 
 ## 🌟 Featured Project
-👉 **Interactive Birthday Celebration Website**  
-🔗 Live Demo: https://<your-username>.github.io/birthday-website/
+🔗 Live Demo: https://chiragsinh02004.github.io/birthday-website/
+🔗 Live Demo: https://chiragsinh02004.github.io/matrix-ascii-translator/
 
 ## 🛠️ Tech Stack
 - HTML5
