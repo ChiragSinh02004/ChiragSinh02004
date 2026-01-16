@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I'm <👑Parmar_Chirag_Sinh👑>
+👋 Hi, I'm 👑Parmar_Chirag_Sinh👑
 
 🎉 I love building interactive web experiences  
 🎂 I created a cinematic birthday website using HTML, CSS & JavaScript  
