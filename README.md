@@ -1,5 +1,8 @@
-## Hi there 👋
-👋 Hi, I'm 👑Parmar_Chirag_Sinh👑
+# Hi there, I'm 👑 Parmar_Chirag_Sinh ⚔️
+
+![](https://shields.io)
+![](https://shields.io)
+
 
 🎉 I love building interactive web experiences  
 🎂 I created a cinematic birthday website using HTML, CSS & JavaScript  
