@@ -1,7 +1,7 @@
 # Hi there, I'm 👑 Parmar_Chirag_Sinh ⚔️
 
-![](https://shields.io)
-![](https://shields.io)
+![Multi Minded Developer](https://shields.io)
+![Cyber Security](https://shields.io)
 
 
 🎉 I love building interactive web experiences  
