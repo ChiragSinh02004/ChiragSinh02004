@@ -1,9 +1,12 @@
 # Hi there, I'm 👑 Parmar_Chirag_Sinh ⚔️
  
-🛠️ Tech Stack & Tools:
-![Kali Linux](https://shields.io) ![Linux](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![Node.js](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![SQL](https://shields.io) ![Oracle](https://shields.io) ![DSA](https://shields.io)
+### 🛠️ Tech Stack & Tools
 
-
+* **🛡️ Security Operating Systems:** `Kali Linux` | `Core Linux`
+* **🐍 Programming Languages:** `Python` | `JavaScript` | `C` | `C++`
+* **🌐 Web Frontend & Backend:** `HTML5` | `CSS3` | `Node.js`
+* **🗄️ Database Systems:** `SQL` | `Oracle Database`
+* **🧠 Computer Science Foundations:** `DSA (Data Structures & Algorithms)`
 
 🎉 I love building interactive web experiences  
 🎂 I created a cinematic birthday website using HTML, CSS & JavaScript  
