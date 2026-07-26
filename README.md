@@ -1,7 +1,7 @@
 # Hi there, I'm 👑 Parmar_Chirag_Sinh ⚔️
-
-![Multi Minded Developer](https://shields.io)
-![Cyber Security](https://shields.io)
+ 
+🛠️ Tech Stack & Tools:
+![Kali Linux](https://shields.io) ![Linux](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![Node.js](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![SQL](https://shields.io) ![Oracle](https://shields.io) ![DSA](https://shields.io)
 
 
 🎉 I love building interactive web experiences  
